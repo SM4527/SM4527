@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Sivanandam (Siva) Manickavasagam 👋
 
-<!--
-**SM4527/SM4527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Database and infrastructure leader in Houston. I manage a team of 20 DBAs and cloud engineers that keeps a large Oracle ERP landscape highly available across on-prem data centers and the cloud.
 
-Here are some ideas to get you started:
+**What I work on**
+- **Oracle ERP platforms:** Oracle E-Business Suite and Oracle Fusion Cloud ERP on OCI
+- **Availability and resilience:** high availability, disaster recovery, and business continuity for business-critical systems
+- **Cloud and automation:** AWS, OCI, Terraform, Ansible, Jenkins, Kubernetes
+- **Agentic AI:** building AI agents with Claude Code and MCP to automate routine operations work such as health checks and incident triage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What's here**
+- **EKS on Terraform series:** deploy an EKS cluster and its common add-ons with Terraform and Helm
+  - [EKS-Terraform](https://github.com/SM4527/EKS-Terraform): the base cluster
+  - [EKS-Nginx-Ingress](https://github.com/SM4527/EKS-Nginx-Ingress) · [EKS-Jenkins](https://github.com/SM4527/EKS-Jenkins) · [EKS-Prometheus-Grafana](https://github.com/SM4527/EKS-Prometheus-Grafana) · [EKS-Cluster-Autoscaler](https://github.com/SM4527/EKS-Cluster-Autoscaler)
+- **[prelegal](https://github.com/SM4527/prelegal):** a full-stack app (Next.js, FastAPI, Docker) with an AI assistant that drafts common legal agreements from a chat
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/siva-tech-leader)
