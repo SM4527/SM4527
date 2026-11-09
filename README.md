@@ -9,6 +9,7 @@ Database and infrastructure leader in Houston. I manage a team of 20 DBAs and cl
 - **Agentic AI:** building AI agents with Claude Code and MCP to automate routine operations work such as health checks and incident triage
 
 **What's here**
+- **[finally](https://github.com/SM4527/finally):** an AI trading workstation (FastAPI, Next.js, Docker) with live market data, a simulated portfolio and an AI chat that can trade for you, built by a team of Claude Code agents
 - **[ai-digital-twin](https://github.com/SM4527/ai-digital-twin):** an AI agent that answers questions about my career, built with Gradio and deployed on Hugging Face ([try it live](https://huggingface.co/spaces/SM4527/ai-digital-twin))
 - **EKS on Terraform series:** deploy an EKS cluster and its common add-ons with Terraform and Helm
   - [EKS-Terraform](https://github.com/SM4527/EKS-Terraform): the base cluster
