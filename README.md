@@ -1,4 +1,4 @@
-### Hi, I'm Sivanandam (Siva) Manickavasagam 👋
+### Hi, I'm Sivanandam (Siva) Manickavasagam
 
 Database and infrastructure leader in Houston. I manage a team of 20 DBAs and cloud engineers that keeps a large Oracle ERP landscape highly available across on-prem data centers and the cloud.
 
