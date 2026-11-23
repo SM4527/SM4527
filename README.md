@@ -6,7 +6,7 @@ Database and infrastructure leader in Houston. I manage a team of 20 DBAs and cl
 - **Oracle ERP platforms:** Oracle E-Business Suite and Oracle Fusion Cloud ERP on OCI
 - **Availability and resilience:** high availability, disaster recovery, and business continuity for business-critical systems
 - **Cloud and automation:** AWS, OCI, Terraform, Ansible, Jenkins, Kubernetes
-- **Agentic AI:** building AI agents with Claude Code and MCP to automate routine operations work such as health checks and incident triage
+- **Agentic AI:** building AI agents and apps with Claude Code and MCP
 
 **What's here**
 - **[folioprism](https://github.com/SM4527/folioprism):** my own project, a self-hosted portfolio "X-Ray" that looks through ETFs and mutual funds to show what you really own: overlap across funds, the top 50 underlying stocks with per-fund attribution, sectors, regions, style box and bonds versus a benchmark (Next.js, PostgreSQL, Docker), built with Claude Code agents
