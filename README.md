@@ -10,6 +10,7 @@ Database and infrastructure leader in Houston. I manage a team of 20 DBAs and cl
 
 **What's here**
 - **[folioprism](https://github.com/SM4527/folioprism):** my own project, a self-hosted portfolio "look-through" that looks through ETFs and mutual funds to show what you really own: overlap across funds, the top 50 underlying stocks with per-fund attribution, sectors, regions, style box and bonds versus a benchmark (Next.js, PostgreSQL, Docker), built with Claude Code agents
+- - **[signalprism](https://github.com):** Self-hosted SEC Form 4 insider-buy tracker that filters noise, scores and clusters open-market purchases, sends Pushover alerts, and exposes a read-only local MCP API (Next.js, TypeScript, SQLite, Docker)
 - **[prism-mcp](https://github.com/SM4527/prism-mcp):** a read-only MCP server for folioprism that lets a local AI model (Qwen3 4B in LM Studio) answer portfolio questions on my own laptop: privacy-first, with percentages only by default (TypeScript, MCP SDK), built with Claude Code
 - **[ai-digital-twin](https://github.com/SM4527/ai-digital-twin):** an AI agent that answers questions about my career, built with Gradio and deployed on Hugging Face ([try it live](https://huggingface.co/spaces/SM4527/ai-digital-twin))
 - **EKS on Terraform series:** deploy an EKS cluster and its common add-ons with Terraform and Helm
