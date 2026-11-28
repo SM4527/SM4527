@@ -9,9 +9,9 @@ Database and infrastructure leader in Houston. I manage a team of 20 DBAs and cl
 - **Agentic AI:** building AI agents and apps with Claude Code and MCP
 
 **What's here**
-- **[folioprism](https://github.com/SM4527/folioprism):** my own project, a self-hosted portfolio "look-through" that looks through ETFs and mutual funds to show what you really own: overlap across funds, the top 50 underlying stocks with per-fund attribution, sectors, regions, style box and bonds versus a benchmark.
+- **[folioprism](https://github.com/SM4527/folioprism):** self-hosted portfolio "look-through" that looks through ETFs and mutual funds to show what you really own: overlap across funds, the top 50 underlying stocks with per-fund attribution, sectors, regions, style box and bonds versus a benchmark.
 - **[signalprism](https://github.com/SM4527/signalprism):** self-hosted SEC Form 4 insider-buy tracker that filters noise, scores and clusters open-market purchases, sends Pushover alerts, and exposes a read-only local MCP API.
-- **[prism-mcp](https://github.com/SM4527/prism-mcp):** a read-only MCP server for folioprism and signalprism that lets a local AI model (Qwen3 4B in LM Studio) answer portfolio and insider-buy questions on my own laptop: privacy-first, with percentages only by default and loopback-only access.
+- **[prism-mcp](https://github.com/SM4527/prism-mcp):** self-hosted read-only MCP server for folioprism and signalprism that lets a local AI model (Qwen3 4B in LM Studio) answer portfolio and insider-buy questions on my own laptop: privacy-first, with percentages only by default and loopback-only access.
 - **[ai-digital-twin](https://github.com/SM4527/ai-digital-twin):** an AI agent that answers questions about my career, built with Gradio and deployed on Hugging Face ([try it live](https://huggingface.co/spaces/SM4527/ai-digital-twin))
 - **EKS on Terraform series:** deploy an EKS cluster and its common add-ons with Terraform
   - [EKS-Terraform](https://github.com/SM4527/EKS-Terraform): the base cluster
